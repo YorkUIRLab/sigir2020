@@ -32,7 +32,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-# permalink: /:title/
+permalink: /:title.html
 # Define default variables.
 defaults:
   -
