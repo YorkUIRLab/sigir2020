@@ -30,14 +30,19 @@ title: "43rd International ACM SIGIR Conference on Research and Development in I
         <!--=== End Header ===-->
 
         <!-- Image Gradient -->
-        {% include banner.html %}
-
+        
+        <script type="text/javascript">
+            //Get Banner image by random
+            var n = Math.floor(Math.random()*7+1);
+            document.write('<div class="interactive-slider-v2" style="background-image:url(\'assets/img/main-banners/SIGIR_banner_'+n+'.jpg\')">');
+        </script>
         <div class="container">
+            
             <h1 class="animated fadeInUp">SIGIR 2020</h1>
             <p class="animated fadeInRight" id="sub_title">43<sup>rd</sup> International ACM SIGIR Conference on
                 Research and Development in Information Retrieval</p>
             <p class="animated fadeInLeft">July 25-30, 2020 (Xi'an, China)</p>
-        </div>
+        </div> 
     </div>
     <!-- End Image Gradient -->
 
