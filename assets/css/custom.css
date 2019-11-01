@@ -26,6 +26,13 @@ blockquote.hero{border-left: solid 2px #e1e2e3;}
     text-align: left;
 }
 
+.news-v3-in h3{font-size:1.5rem!important; color: #717273}
+.news-v3-in h3 strong{display: block;font-size: 2rem; color: #555}
+
+.timeline-v2:before{left: 34%}
+.timeline-v2 > li .cbp_tmlabel{ margin-left: 40%}
+.timeline-v2 > li .cbp_tmicon{left:34%}
+
 
 
 @media(max-width: 999px) {
