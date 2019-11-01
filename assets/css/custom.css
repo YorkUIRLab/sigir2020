@@ -19,11 +19,9 @@ blockquote.hero{border-left: solid 2px #e1e2e3;}
 .hero ul{padding: 0 20px 0 20px}
 
 .news-v3 p,.save_the_date p{
-    text-align: -webkit-match-parent;
     word-spacing: 0.1rem;
     line-height: 2;
     text-align: justify;
-    text-align: left;
 }
 
 .news-v3-in h3{font-size:1.5rem!important; color: #717273}
@@ -48,7 +46,7 @@ blockquote.hero{border-left: solid 2px #e1e2e3;}
     .hero ul{padding: 0 10px 0 10px}
     .news-v3 .news-v3-in{padding:30px 20px}
     .news-v3 p,.save_the_date p{
-        text-align:left;
+        text-align: justify;
         font-size: 13px;
     }
 
