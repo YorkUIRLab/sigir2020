@@ -27,13 +27,14 @@ blockquote.hero{border-left: solid 2px #e1e2e3;}
 .news-v3-in h3{font-size:1.5rem!important; color: #717273}
 .news-v3-in h3 strong{display: block;font-size: 2rem; color: #555}
 
-.timeline-v2:before{left: 34%}
-.timeline-v2 > li .cbp_tmlabel{ margin-left: 40%}
-.timeline-v2 > li .cbp_tmicon{left:34%}
-
-
+.sponsorship-table{}
+.sponsorship-table th,.sponsorship-table td{vertical-align: middle!important;word-break:break-all}
+.sponsorship-table ul{ margin-bottom: 0}
+.sponsorship-table ul li { margin:5px 0 10px; font-size: 0.9em}
+ 
 
 @media(max-width: 999px) {
+    /* for mobile */
     #organizers ul li.person-card{ width:50%; height:200px; }
 
     #organizers ul li.person-card a img{ width:80%;}
@@ -45,9 +46,14 @@ blockquote.hero{border-left: solid 2px #e1e2e3;}
 
     .hero ul{padding: 0 10px 0 10px}
     .news-v3 .news-v3-in{padding:30px 20px}
-    .news-v3 p,.save_the_date p{
-        text-align: justify;
-        font-size: 13px;
-    }
+    .news-v3 p,.save_the_date p{text-align:left; font-size: 13px;  }
+    .timeline-v2 > li{ text-align: left}
 
+}
+
+@media(min-width: 999px) {
+    /* for PC */
+    .timeline-v2:before{left: 34%}
+    .timeline-v2 > li .cbp_tmlabel{ margin-left: 40%}
+    .timeline-v2 > li .cbp_tmicon{left:34%}
 }
