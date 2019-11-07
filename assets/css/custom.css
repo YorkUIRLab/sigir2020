@@ -53,7 +53,8 @@ blockquote.hero{border-left: solid 2px #e1e2e3;}
 
 @media(min-width: 999px) {
     /* for PC */
-    .timeline-v2:before{left: 34%}
-    .timeline-v2 > li .cbp_tmlabel{ margin-left: 40%}
-    .timeline-v2 > li .cbp_tmicon{left:34%}
+    .timeline-v2 > li .cbp_tmtime span:first-child{font-size: 16px}
+    .timeline-v2:before{left: 18%}
+    .timeline-v2 > li .cbp_tmlabel{ margin-left: 21%}
+    .timeline-v2 > li .cbp_tmicon{left:18%}
 }
