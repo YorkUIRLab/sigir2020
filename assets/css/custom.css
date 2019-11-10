@@ -46,7 +46,7 @@ blockquote.hero{border-left: solid 2px #e1e2e3;}
 
     .hero ul{padding: 0 10px 0 10px}
     .news-v3 .news-v3-in{padding:30px 20px}
-    .news-v3 p,.save_the_date p{text-align:left; font-size: 13px;  }
+    .news-v3 p,.save_the_date p{text-align: justify; font-size: 13px;  }
     .timeline-v2 > li{ text-align: left}
 
 }
