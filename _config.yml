@@ -22,7 +22,7 @@ title: SIGIR 2020
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     43rd International ACM SIGIR Conference on Research and Development in Information Retrieval - July 25-30, 2020 (Xi'an, China)
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
