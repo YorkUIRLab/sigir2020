@@ -58,3 +58,9 @@ blockquote.hero{border-left: solid 2px #e1e2e3;}
     .timeline-v2 > li .cbp_tmlabel{ margin-left: 21%}
     .timeline-v2 > li .cbp_tmicon{left:18%}
 }
+
+
+.accepted-papers-caption strong{ margin: 30px 0 15px}
+.accepted-papers-table{font-size: 13px;border:1px solid #eee}
+.accepted-papers-table td{border:1px solid #eee;padding: 10px}
+.accepted-papers-table tr td:nth-child(1){background: #f7f7f7;font-weight: bold;font-size: 12px;width: 300px}
