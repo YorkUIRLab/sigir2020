@@ -1,0 +1,245 @@
+/* Add here all your css styles (customizations) */
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hero ul li {
+    font-size: 0.85em;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+    font-style: italic
+}
+
+.organizers-type-list {
+    font-size: 0.85em
+}
+
+.organizers-type-list-float {
+    position: fixed;
+    z-index: 999999;
+    top: 20px;
+}
+
+#organizers {}
+
+#organizers h4 {
+    margin: 20px 0 30px;
+    border-left: 7px solid #cc0000;
+    padding-left: 10px;
+    line-height: 0.9;
+}
+
+#organizers ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    clear: both;
+    margin-bottom: 1rem;
+    border-bottom: 1px dotted #e1e2e3
+}
+
+#organizers ul li {}
+
+#organizers ul li.person-card {
+    list-style: none;
+    width: 33%;
+    float: left;
+    height: 220px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 10px;
+    line-height: 1.5;
+    color: #999
+}
+
+#organizers ul li.person-card a {
+    display: block;
+    font-size: 1.5rem;
+    font-weight: bold
+}
+
+#organizers ul li.person-card a img {
+    width: 55%;
+    display: block;
+    margin: 0 auto 5px;
+    padding: 2px;
+    border: 1px solid #f1f2f3;
+    border-radius: 6px !important;
+}
+
+
+blockquote.hero {
+    border-left: solid 2px #e1e2e3;
+}
+
+.hero ul {
+    padding: 0 20px 0 20px
+}
+
+.news-v3 p,
+.save_the_date p {
+    word-spacing: 0.1rem;
+    line-height: 2;
+    text-align: justify;
+}
+
+.news-v3-in h3 {
+    font-size: 1.5rem !important;
+    color: #717273
+}
+
+.news-v3-in h3 strong {
+    display: block;
+    font-size: 2rem;
+    color: #555
+}
+
+
+.sponsorship-table {}
+
+.sponsorship-table th,
+.sponsorship-table td {
+    vertical-align: middle !important;
+    word-break: break-all
+}
+
+.sponsorship-table ul {
+    margin-bottom: 0
+}
+
+.sponsorship-table ul li {
+    margin: 5px 0 10px;
+    font-size: 0.9em
+}
+
+
+.sponsor-class {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ddf;
+}
+
+.sponsor-container {
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center }
+
+.sponsor-container img {
+    margin: 0 }
+
+@media(max-width: 999px) {
+
+    /* for mobile */
+    #organizers ul li.person-card {
+        width: 50%;
+        height: 200px;
+    }
+
+    #organizers ul li.person-card a img {
+        width: 80%;
+    }
+
+
+    blockquote.hero {
+        border-left: solid 2px #e1e2e3;
+    }
+
+    .hero ul li {
+        font-style: inherit;
+        font-size: 13px;
+        line-height: 1.6
+    }
+
+
+    .hero ul {
+        padding: 0 10px 0 10px
+    }
+
+    .news-v3 .news-v3-in {
+        padding: 30px 20px
+    }
+
+    .news-v3 p,
+    .save_the_date p {
+        text-align: justify;
+        font-size: 13px;
+    }
+
+    .timeline-v2>li {
+        text-align: left
+    }
+
+}
+
+@media(min-width: 999px) {
+
+    /* for PC */
+    .timeline-v2>li .cbp_tmtime span:first-child {
+        font-size: 16px
+    }
+
+    .timeline-v2:before {
+        left: 18%
+    }
+
+    .timeline-v2>li .cbp_tmlabel {
+        margin-left: 21%
+    }
+
+    .timeline-v2>li .cbp_tmicon {
+        left: 18%
+    }
+}
+
+
+.accepted-papers-caption strong {
+    margin: 30px 0 15px
+}
+
+.accepted-papers-table {
+    font-size: 13px;
+    border: 1px solid #eee
+}
+
+.accepted-papers-table td {
+    border: 1px solid #eee;
+    padding: 10px
+}
+
+.accepted-papers-table tr td:nth-child(1) {
+    background: #f7f7f7;
+    font-weight: bold;
+    font-size: 12px;
+    width: 300px
+}
+
+.accepted-papers-caption-new {
+    padding: 50px 0 20px;
+    color: #2c2c2c
+}
+
+.accepted-papers-caption-new strong {
+    font-size: 3rem !important;
+}
+
+#FullPaper {
+    padding: 0px 0 20px
+}
+
+.accepted-papers-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0 !important;
+    word-spacing: 0.1rem;
+}
+
+.accepted-papers-authors {
+    font-size: 1.5rem;
+    margin: 0 0 20px;
+    word-spacing: 0.1rem;
+}
