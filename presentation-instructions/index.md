@@ -1,6 +1,6 @@
 ---
 title: SIGIR 2020 Presentation Instructions
-category: Program
+category: Attend
 layout: default
 ---
 
@@ -68,18 +68,15 @@ To increase the interaction between participants, we set up a number of TEN virt
 discussions to attend. 
 
 The available time slots for discussion rooms are as follows (all the following time are GMT+8):
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">12:00-14:30 </th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
-5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">July 27</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">50 slots available</span></th></tr></thead><tbody><tr><td
-style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">00:00-06:00 </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">July 28</span></td><td
-style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">120 slots available</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">12:00-14:30 </td><td
-style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">July 28</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span
-style="font-weight:400;font-style:normal">50 slots available</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">00:00-06:00 </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px
-5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">July 29</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">120 slots available</span></td></tr><tr><td
-style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">12:00-14:30</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">July 29</span></td><td
-style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">50 slots available</span></td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px
-5px;text-align:left;vertical-align:top;word-break:normal">00:00-06:00 </td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">July 30</span></td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px
-5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">120 slots available</span></td></tr></tbody></table>
 
+Time | Date | Available slots
+-----|------|-------------------------
+12:00-14:30 | July 27 | 50 slots available
+00:00-06:00 | July 28 | 120 slots available
+12:00-14:30 | July 28 | 50 slots available
+00:00-06:00 | July 29 | 120 slots available 
+12:00-14:30 | July 29 | 50 slots available 
+00:00-06:00 | July 30 | 120 slots available
 
 
 The application of time slots should be performed while submitting the video and paper information to the conference portal. The allocation of slots will follow a "first come, first served" policy. 
