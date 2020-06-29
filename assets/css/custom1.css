@@ -268,3 +268,6 @@ blockquote.hero {
     word-break:normal   
 }
 
+.default-ul ul {
+    font-size: 13px;
+}
