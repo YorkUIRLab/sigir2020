@@ -1,5 +1,5 @@
 ---
-title: Instructions for Virtual Presentations on SIGIR 2020
+title: Instructions for Virtual Presentation
 category: Attend
 layout: default
 ---
@@ -31,7 +31,7 @@ For further discussions, each short paper can apply for a time slot in Zoom virt
 
 
 <hr>
-## TOIS PAPER 
+## TOIS PAPER PRESENTATION
 
 The authors of each presented TOIS paper should prepare 15-min video which will be presented at the conference Web portal during the conference period. The video as well as other paper information should be submitted.
 
@@ -41,7 +41,7 @@ Each presented TOIS paper can apply for a time slot of virtual discussion room f
 
 
 <hr>
-## INDUSTRY TRACK PAPER 
+## INDUSTRY TRACK PAPER PRESENTATION
 
 Each industry track paper should be presented by an author (presenter). The presenter should prepare a 15-min video which will be presented at the conference Web portal during the conference period. The video as well as other paper information should be submitted.
 
@@ -51,7 +51,7 @@ Each industry track paper can apply for a time slot of virtual discussion room f
 
 
 <hr>
-## DEMO PAPER 
+## DEMO PAPER PRESENTATION
 
 The authors of each demo paper should prepare a 10-min video which will be presented at the conference Web portal during the conference. The video and a brief description of the demonstration system should be submitted.
 
