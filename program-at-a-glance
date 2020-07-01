@@ -1,0 +1,423 @@
+---
+title: "Call for Sponsorships"
+---
+
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]>
+<html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+<head>
+    <title>SIGIR 2020</title>
+    {% include head.html %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/header-v3.css">
+</head>
+
+<body class="header-fixed">
+    <div class="wrapper" style="min-height: 800px">
+        <!--=== Header===-->
+        <div class="header-v3">
+            <div class="container"></div>
+            <!-- Navbar -->
+            {% include navbar.html %}
+            <!-- End Navbar -->
+        </div>
+        <!--=== End Header ===-->
+        <div class="breadcrumbs">
+            <div class="container">
+                <h1 class="pull-left">Program at a glance</h1>
+                <ul class="pull-right breadcrumb">
+                    <li><a href="{{ site.baseurl }}/">Home</a></li>
+                    <li><a href="">Program</a></li>
+                    <li class="active">Program at a glance</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="bg-color-light">
+            <div class="container content-xs">
+                <div class="news-v3 margin-bottom-30">
+                    {% include banner.html %}
+                    <!-- Contents goes here -->
+                    <div class="news-v3-in">
+                        <h2><strong>SIGIR 2020 Program at a glance</strong></h2>
+                        <div class="">
+                        
+                        
+                        <!-- Saturday, July 25 -->
+                            <table cellpadding="5" cellspacing="5" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center" colspan="2">Saturday, July 25</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="text-center"  style="width: 30%">8:00-13:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>SIGIR Summer School Session I</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">15:00-18:30</td>
+                                        <td>
+                                            <ul>
+                                                <li> SIGIR Summer School Session II</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">20:00-21:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>SIGIR Summer School Session III</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            
+                            <!-- Sunday, July 26 -->
+                            <table cellpadding="5" cellspacing="5" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center" colspan="2">Sunday, July 26</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="text-center"  style="width: 30%">8:30-18:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Tutorial Sessions</li>
+                                            </ul>                                        
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">14:30-16:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>DC Student Talk Session I</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">16:45-18:45</td>
+                                        <td>
+                                            <ul>
+                                                <li>DC Student Talk Session II</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">19:00-21:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>DC Student Talk Session III</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">21:00-21:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Welcome & Conference Opening</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">21:30-23:0019:00-21:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Social Event I (Student Event)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <br>
+                           
+                            <!-- Monday, July 27 -->
+                            <table cellpadding="5" cellspacing="5" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center" colspan="2">Monday, July 27</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="text-center" style="width: 30%">8:30-9:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Keynote I (Playback is available after 10:00)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">9:40-11:40</td>
+                                        <td>
+                                            <ul>
+                                                <li>Full paper sessions (3 parallel: 3*6) + Industrial session I</li>
+                                            </ul>
+                                        </td>
+                                    </tr>                                      
+                                    <tr>
+                                        <td class="text-center">12:00-14:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Virtual discussion rooms available</li>
+                                            </ul>
+                                        </td>
+                                    </tr>          
+                                    <tr>
+                                        <td class="text-center">14:30-15:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Keynote II (Playback is available after 16:00)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">15:40-18:00</td>
+                                        <td>
+                                            <ul>
+                                                <li> Full paper sessions (3 parallel: 3*7) + Industrial session II</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">19:00-20:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Social Event II (Women in IR - Session A)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">20:00-22:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Short / Demo / TOIS paper session I</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">22:00-24:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Full paper sessions (3 parallel: 3*6)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <br>
+                            
+                            <!-- Tuesday, July 28 -->
+                            <table cellpadding="5" cellspacing="5"  class="table table-bordered table-striped ">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center" colspan="2">Tuesday, July 28</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="text-center" style="width: 30%">0:00-1:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Social Event III (Women in IR - Session B)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">0:00-6:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Virtual discussion rooms available</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">8:30-9:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Keynote III (Playback is available after 10:00)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">9:40-11:40</td>
+                                        <td>
+                                            <ul>
+                                                <li>Full paper sessions (3 parallel: 3*6) + Industrial session III</li>
+                                            </ul>
+                                        </td>
+                                    </tr>                                    
+                                    <tr>
+                                        <td class="text-center">12:00-14:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Virtual discussion rooms available</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">14:30-15:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Keynote IV (Playback is available after 16:00)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">15:40-18:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Full paper sessions (3 parallel: 3*6) + Industrial session IV</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">20:00-22:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Short / Demo / TOIS paper session II, Social Event IV (DEI Event)
+                                                </li>
+                                            </ul>
+                                        </td>
+                                    </tr>                    
+                                    <tr>
+                                        <td class="text-center">22:00-24:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Full paper sessions (3 parallel: 3*6)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <br>
+
+                            <!-- Wednesday, July 29 -->
+                            <table cellpadding="5" cellspacing="5" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center" colspan="2">Wednesday, July 29</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="text-center" style="width: 30%">0:00-6:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Virtual discussion rooms available</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">8:30-9:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Keynote V (Playback is available after 10:00)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">9:40-11:40</td>
+                                        <td>
+                                            <ul>
+                                                <li>Full paper sessions (3 parallel: 3*6) + Industrial session V</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">12:00-14:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Virtual discussion rooms available</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">14:30-15:30</td>
+                                        <td>
+                                            <ul>
+                                                <li>Keynote VI (Playback is available after 16:00)</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">15:40-18:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Full paper sessions (3 parallel: 3*6) + Industrial session VI</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">21:00-24:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Conference Closing & Business Meeting</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <br>
+
+                            <!-- Thursday, July 30 -->
+                            <table cellpadding="5" cellspacing="5" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        <th class="text-center" colspan="2">Thursday, July 30</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td class="text-center"  style="width: 30%">0:00-6:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Virtual discussion rooms available</li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-center">8:30-24:00</td>
+                                        <td>
+                                            <ul>
+                                                <li>Workshop Sessions/li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--/end container-->
+        </div>
+
+    </div>
+    <!--=== End Content ===-->
+
+
+    <!--=== Footer ===-->
+    {% include footer.html %}
+    <!--=== End Footer ===-->
+
+    <!--=== Scripts ===-->
+    {% include scripts.html %}
+    <!--=== End scripts ===-->
+
+
+</body>
+
+</html>
