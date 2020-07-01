@@ -1,5 +1,5 @@
 ---
-title: Instructions for Virtual Presentation
+title: SIGIR 2020 Presentation Instructions
 category: Attend
 layout: default
 ---
@@ -15,7 +15,7 @@ We are committed to develop a conference program which is convenient for people 
 
 Each full paper should be presented by an author (presenter). The presenters are expected to provide a prerecorded 15-min video which will be presented at the conference Web portal during the conference period. The video as well as other paper information should be submitted.
 
-The presenter is also expected to give a live talk (15 mins + 5 mins’ Q&A) on Zoom meeting in the corresponding full paper session. In case of emergent network connection problem during the live talk, the volunteer serving for the session can play the prerecorded video for the paper. If it is convenient for the presenters, we recommend each presenter to give a live talk for paper presentation instead of using a prerecorded video. 
+The presenter is also expected to give a live talk (15 mins' presentation + 5 mins’ Q&A) on Zoom meeting in the corresponding full paper session. In case of emergent network connection problem during the live talk, the volunteer serving for the session can play the prerecorded video for the paper. If it is convenient for the presenters, we recommend each presenter to give a live talk for paper presentation instead of using a prerecorded video. 
 
 For further discussions, each full paper can apply for a time slot of Zoom virtual discussion room. Details can be found in section VIRTUAL DISCUSSION ROOM.
 
@@ -45,7 +45,7 @@ Each presented TOIS paper can apply for a time slot of virtual discussion room f
 
 Each industry track paper should be presented by an author (presenter). The presenter should prepare a 15-min video which will be presented at the conference Web portal during the conference period. The video as well as other paper information should be submitted.
 
-The presenter is also expected to give a live talk (15 mins + 5 mins’ Q&A) using Zoom in the corresponding industry track paper session. In case of emergent network connection problem during the live talk, the volunteer in the paper session can play the prerecorded video for the paper. However, a live talk is mandatory for presenters.
+The presenter is also expected to give a live talk (15 mins' presentation + 5 mins' Q&A) using Zoom in the corresponding industry track paper session. In case of emergent network connection problem during the live talk, the volunteer in the paper session can play the prerecorded video for the paper. However, a live talk is mandatory for presenters.
 
 Each industry track paper can apply for a time slot of virtual discussion room for further discussions. Details can be found in VIRTUAL DISCUSSION ROOM. 
 
