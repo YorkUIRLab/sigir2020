@@ -69,6 +69,14 @@ The authors are also expected to interact with the participants via the online d
 Each demo paper can apply for a time slot of virtual discussion room for further discussions. Details can be found in VIRTUAL DISCUSSION ROOM.
 
 <hr>
+## DC PAPER PRESENTATION
+Each Doctoral Consortium (DC) paper should be presented by the author. The author should prepare a 15-min video (720p) which will be presented at the conference Web portal during the conference period. The video as well as other paper information should be submitted. Instructions on how to submit the corresponding information will be sent to the authors via a separate email.
+
+The author is also expected to give a live talk (around 23 mins including Q&A) using Zoom in the corresponding DC session. In case of emergent network connection problem during the live talk, the volunteer in the paper session can play the prerecorded video for the paper. However, a live talk is mandatory for presenters.
+
+Each DC paper can apply for a time slot of virtual discussion room for further discussions. Details can be found in VIRTUAL DISCUSSION ROOM.
+
+<hr>
 ## VIRTUAL DISCUSSION ROOM 
 
 To facilitate the interactions between participants, we set up TEN virtual discussion rooms, each of which can hold up to 200 attendees. Each full/short/TOIS/industry track/demo paper can apply for a time slot of half an hour in a virtual room. Each time slot will be coordinated by the applicant with the help of a volunteer. The time slot information for the paper will also be updated on the Web portal so that participants can choose their interested discussions to attend. The application of time slots should be performed while submitting the video and paper information to the conference Web portal. We apply "first come, first served" policy to the allocation of slots.
