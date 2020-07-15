@@ -45,7 +45,7 @@ Each presented TOIS paper can apply for a time slot of virtual discussion room f
 
 Each industry track paper should be presented by an author (presenter). The presenter should prepare a 15-min video (720p) which will be presented at the conference Web portal during the conference period. The video as well as other paper information should be submitted. Instructions on how to submit the corresponding information will be sent to the authors via a separate email.
 
-The presenter is also expected to give a live talk (15 mins' presentation + 5 mins' Q&A) using Zoom in the corresponding industry track paper session. In case of emergent network connection problem during the live talk, the volunteer in the paper session can play the prerecorded video for the paper. However, a live talk is mandatory for presenters.
+The presenter is also expected to give a live talk (20-min presentation + 5-min Q&A) using Zoom in the corresponding industry track paper session. In case of emergent network connection problem during the live talk, the volunteer in the paper session can play the prerecorded video for the paper. However, a live talk is mandatory for presenters.
 
 Each industry track paper can apply for a time slot of virtual discussion room for further discussions. Details can be found in VIRTUAL DISCUSSION ROOM. 
 
