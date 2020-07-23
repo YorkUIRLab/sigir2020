@@ -1,5 +1,5 @@
 ---
-title: SIGIR 2020 Program Booklet
+title: SIGIR 2020 Program Booklets
 category: Program
 layout: default
 ---
