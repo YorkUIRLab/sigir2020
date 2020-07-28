@@ -85,9 +85,10 @@ The available time slots for discussion rooms are given as follows. (Time zone: 
 
 Time | Date | Available slots
 -----|------|-------------------------
-12:00-14:30 | July 27 | 50 slots available
-00:00-06:00 | July 28 | 120 slots available
-12:00-14:30 | July 28 | 50 slots available
-00:00-06:00 | July 29 | 120 slots available 
-12:00-14:30 | July 29 | 50 slots available 
-00:00-06:00 | July 30 | 120 slots available
+12:00-14:30 | July 27, 2020 | 50 slots available
+20:00-22:00 | July 27, 2020 | 40 slots available
+00:00-06:00 | July 28, 2020 | 120 slots available
+12:00-14:30 | July 28, 2020 | 50 slots available
+20:00-22:00 | July 28, 2020 | 40 slots available
+00:00-06:00 | July 29, 2020 | 120 slots available 
+12:00-14:30 | July 29, 2020 | 50 slots available
