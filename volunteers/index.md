@@ -8,7 +8,10 @@ layout: default
 
 SIGIR 2020 have 75 volunteers from 13 countries around the world.
 
+
+<hr>
 ## Leaders
+
 |       Name       |         Affiliation         | Country |
 |:----------------:|:---------------------------:|:-------:|
 |     Yiqun Liu    |     Tsinghua University     |  China  |
@@ -16,8 +19,9 @@ SIGIR 2020 have 75 volunteers from 13 countries around the world.
 |    Jiafeng Guo   | Chinese Academy of Sciences |  China  |
 | Jeremy (Lei) Liu |       York University       |  Canada |
 
-
+<hr>
 ## Organizers
+
 |           Name          |     Affiliation     | Country |
 |:-----------------------:|:-------------------:|:-------:|
 |        Jiaxin Mao       | Tsinghua University |  China  |
@@ -27,7 +31,9 @@ SIGIR 2020 have 75 volunteers from 13 countries around the world.
 | Md Tahmid Rahman Laskar |   York University   |  Canada |
 |        Huaqi Gao        |   York University   |  Canada |
 
+<hr>
 ## Volunteers
+
 |           Name          |                              Affiliation                              |     Country    |
 |:-----------------------:|:---------------------------------------------------------------------:|:--------------:|
 |     Shubhdeep Singh     |                            RMIT University                            |    Australia   |
