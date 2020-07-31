@@ -11,8 +11,6 @@ SIGIR 2020 have 75 volunteers from 13 countries around the world.
 <hr>
 ## Leaders
 
-<center>
-
 |       Name       |         Affiliation         | Country |
 |:----------------:|:---------------------------:|:-------:|
 |     Yiqun Liu    |     Tsinghua University     |  China  |
@@ -22,8 +20,6 @@ SIGIR 2020 have 75 volunteers from 13 countries around the world.
 
 <hr>
 ## Organizers
-
-<center>
 
 |           Name          |     Affiliation     | Country |
 |:-----------------------:|:-------------------:|:-------:|
@@ -36,8 +32,6 @@ SIGIR 2020 have 75 volunteers from 13 countries around the world.
 
 <hr>
 ## Volunteers
-
-<center>
 
 |           Name          |                              Affiliation                              |     Country    |
 |:-----------------------:|:---------------------------------------------------------------------:|:--------------:|
