@@ -11,7 +11,7 @@ SIGIR 2020 have 75 volunteers from 13 countries around the world.
 ## Leaders
 <center>
 Name | Affiliation | Country
------|-------------|--------
+-----|-------------|-------------
 Yiqun Liu | Tsinghua University | China
 Jeremy (Lei) Liu | York University | Canada
 Zhicheng Dou | Tsinghua University | China
@@ -21,7 +21,7 @@ Jiafeng Guo | Chinese Academy of Sciences | China
 ## Organizers
 <center>
 Name | Affiliation | Country
------|-------------|--------
+-----|-------------|-------------
 Jiaxin Mao | Tsinghua University | China
 Zhiwei Ma | Tsinghua University | China
 Kimiya Keyvan	| York University	| Canada
@@ -33,7 +33,7 @@ Huaqi Gao	| York University	| Canada
 ## Volunteers
 <center>
 Name | Affiliation | Country
------|-------------|--------
+-----|-------------|---------------
 Shubhdeep Singh	| RMIT University	| Australia
 Ruotian Ma	| Fudan University	| China
 Shizhe Diao |	The Hong Kong University of Science and Technology	| China
