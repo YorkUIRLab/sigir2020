@@ -24,7 +24,7 @@ SIGIR 2020 have 75 volunteers from 13 countries around the world.
 |           Name          |     Affiliation     | Country |
 |:-----------------------:|:-------------------:|:-------:|
 |        Jiaxin Mao       | Tsinghua University |  China  |
-|        Zhiwei Ma        | Tsinghua University |  China  |
+|        Weizhi Ma        | Tsinghua University |  China  |
 |      Kimiya Keyvan      |   York University   |  Canada |
 |       Ellen Huang       |                     |  Canada |
 | Md Tahmid Rahman Laskar |   York University   |  Canada |
