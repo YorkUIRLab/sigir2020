@@ -16,7 +16,6 @@ Jeremy (Lei) Liu | York University | Canada
 Zhicheng Dou | Tsinghua University | China
 Jiafeng Guo | Chinese Academy of Sciences | China
 
-<hr>
 ## Organizers
 Name | Affiliation | Country
 -----|-------------|-------------
@@ -27,7 +26,6 @@ Ellen Huang	| High School | Canada
 Md Tahmid Rahman Laskar	| York University	| Canada
 Huaqi Gao	| York University	| Canada
 
-<hr>
 ## Volunteers
 Name | Affiliation | Country
 -----|-------------|---------------
@@ -103,6 +101,6 @@ Xin Zhao	|	Unknown | China
 Ruqing Zhang	|	Unknown | China
 Saiping Guan |	Unknown | China
 Xiao Zhang	|	Unknown | China
-Ting Bai	|	Unknown | 	China
+Ting Bai	|	Unknown | China
 Pengfei Wang	|	Unknown | China
 Yixing Fan	|	Unknown | China
