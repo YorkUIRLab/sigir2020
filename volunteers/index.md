@@ -6,7 +6,7 @@ layout: default
 
 # {{ page.title }}
 
-SIGIR 2020 has 77 volunteers from 13 countries around the world.
+SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 77 volunteers from 13 countries around the world. Our volunteer leaders are responsible for Publicity, Virtual Conference Portal and Virtual Discussion Rooms respectively, while our volunteers are resonsible for Publicity, Keynotes or Full Paper Presentations and VIrtual Discussion Rooms. We list our volunteer leaders and volunteers in the following.
 
 <hr>
 ## Leaders
