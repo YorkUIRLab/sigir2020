@@ -40,6 +40,7 @@ SIGIR 2020 has 77 volunteers from 13 countries around the world.
 
 <hr>
 ## Volunteers (Keynotes or Full Paper Presentations)
+
 |     Name     |                     Affiliation                    | Country |    Note   |
 |:------------:|:--------------------------------------------------:|:-------:|:---------:|
 |  Jiaxin Mao  |                 Tsinghua University                |  China  | Organizer |
