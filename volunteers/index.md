@@ -39,6 +39,15 @@ SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 77 volunteers
 |     Huaqi Gao     |          York University         |  Canada |
 
 <hr>
+## Volunteers (Virtual Hangout Room)
+
+|          Name        |         Affiliation        | Country |   Note    |
+|:--------------------:|:--------------------------:|:-------:|:---------:|
+|       Long Xia       |       York University      |  Canada | Organizer |
+|      Jiaxin Mao      |    Tsinghua University     |  China  | Organizer |
+| Jiashu (Jessie) Zhao | Wilfrid Laurier University |  Canada | Organizer |
+
+<hr>
 ## Volunteers (Keynotes or Full Paper Presentations)
 
 |     Name     |                     Affiliation                    | Country |    Note   |
@@ -85,7 +94,6 @@ SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 77 volunteers
 |      Bushra Aljbawi     |             Wilfrid Laurier University             |     Canada     |           |
 |     Zien Sheikh Ali     |                  Qatar University                  |      Qatar     |           |
 |    Valeriia Baranova    |                   RMIT University                  |    Australia   |           |
-|    Daniel Berezovski    |             Wilfrid Laurier University             |     Canada     |           |
 |         Qin Chen        |                  Fudan University                  |      China     |           |
 |       Zitong Cheng      |               University of Delaware               |       USA      |           |
 |        Yumin Chen       |          Taiyuan University of Technology          |      China     |           |
@@ -124,4 +132,5 @@ SIGIR 2020 has 8 volunteer leaders from two countries and enrolled 77 volunteers
 |   Fattane Zarrinkalam   |                 Ryerson university                 |     Canada     |           |
 |       Oleg Zendel       |                   RMIT University                  |    Australia   |           |
 |         Yu Zhang        |     University of Illinois at Urbana-Champaign     |       USA      |           |
+|        Xuan Zhao        |                   York University                  |     Canada     |           |
 |    Sherry Runjie Zhu    |                   York University                  |     Canada     |           |
